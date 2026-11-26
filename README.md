@@ -1,8 +1,10 @@
 # Tenebrous
 
-Playable builds of Tenebrous, a dark-fantasy steampunk CRPG. Exported 20 November 2026 from the Godot 4.7 project.
+Playable builds of Tenebrous, a dark-fantasy steampunk CRPG. Exported 26 November 2026 from the Godot 4.7 project.
 
 Download a release for your system and unzip it. Keep the program and `Tenebrous.pck` in the same folder. The pack is the game. The program will not start without it beside it, under that same name.
+
+GitHub also lists Source code archives on the release. Those are this readme only. The game is `Tenebrous-linux.zip` or `Tenebrous-windows.zip`.
 
 ## Linux
 
